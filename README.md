@@ -1,5 +1,4 @@
-## Sou Jean, Iniciante em programação e desenvolvimento web
-### Estou a procura de aproveitar ao maximo meu ultimo ano de faculdade de Sistemas de informação e cooperar para trabalhos maiores 
+## Sou Jean, programando em desenvolvimento web e mobile
 #### Dá uma olhada <a href="http://reisjean.com/"> no que eu sei fazer! </a>
 
 
