@@ -1,5 +1,5 @@
-## Sou Jean, programando em desenvolvimento web e mobile
-#### Dá uma olhada <a href="http://reisjean.com/"> no que eu sei fazer! </a>
+## Olá Sou Jean, programando em desenvolvimento web e mobile
+####// Dá uma olhada <a href="http://reisjean.com/"> no que eu sei fazer! </a>
 
 
 <div align="center">
